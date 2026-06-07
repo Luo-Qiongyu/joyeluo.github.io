@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
 url: "https://luo-qiongyu.com"
 
 github:
-  username: JoyeLuo # change to your github username
+  username: Luo-Qiongyu # change to your github username
 
 twitter:
   username: LuoJoye # change to your twitter username
@@ -38,7 +38,7 @@ social:
   email: qiongyu.luo@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://github.com/JoyeLuo # change to your github homepage
+    - https://github.com/Luo-Qiongyu # change to your github homepage
     - https://twitter.com/LuoJoye # change to your twitter homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
