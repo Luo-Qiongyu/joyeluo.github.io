@@ -28,6 +28,16 @@
     {% endif %}
   </p>
 
+  <p class="mb-0 small">
+    <span id="busuanzi_container_site_pv">
+      总访问量 <span id="busuanzi_value_site_pv"></span> 次
+    </span>
+    <span class="mx-1">|</span>
+    <span id="busuanzi_container_site_uv">
+      访客数 <span id="busuanzi_value_site_uv"></span> 人
+    </span>
+  </p>
+
   <p>
     {%- capture _platform -%}
       <a href="https://jekyllrb.com" target="_blank" rel="noopener">Jekyll</a>
@@ -47,3 +57,5 @@
     {% comment %} {{ site.data.locales[include.lang].meta | replace: ':PLATFORM', _platform | replace: ':THEME', _theme }} {% endcomment %}
   </p>
 </footer>
+
+<script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
