@@ -121,4 +121,4 @@ order: 4
 
 </div>
 
-也可以点击淘宝链接打开：[JAF驾照翻译/JAF翻译件/海外租车/日本租车/中国换日本驾照翻译件](https://e.tb.cn/h.RPDPGmheRJRH4zG?tk=SmSJg2AYiZl)
+请保存上方图片后，用淘宝 App 扫码打开店铺。
