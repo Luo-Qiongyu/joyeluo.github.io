@@ -5,8 +5,8 @@ icon: fas fa-car
 order: 4
 ---
 
-<h1 style="display: flex; align-items: center; gap: 0.35em;">
-  <img src="/assets/img/contact/jaf-logo.svg" alt="JAF 官方标识" width="96">
+<h1 class="jaf-service-title" style="display: flex; align-items: center; gap: 0.35em;">
+  <img class="jaf-logo" src="/assets/img/contact/jaf-logo.svg" alt="JAF 官方标识" width="96">
   <span style="position: relative; top: -0.12em;">JAF 驾照翻译件代办</span>
 </h1>
 

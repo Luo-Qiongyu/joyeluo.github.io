@@ -21,7 +21,23 @@
   }
 }
 
+article img[src*='jaf-logo'] {
+  background: #ffffff;
+  border-radius: 4px;
+  padding: 0.2rem 0.3rem;
+}
+
 @media (max-width: 576px) {
+  .jaf-service-title {
+    flex-wrap: nowrap;
+    font-size: 1.75rem;
+    white-space: nowrap;
+  }
+
+  .jaf-service-title img[src*='jaf-logo'] {
+    width: 72px;
+  }
+
   .jaf-sample-grid {
     gap: 0.5rem !important;
   }
