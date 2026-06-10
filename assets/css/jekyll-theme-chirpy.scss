@@ -8,3 +8,15 @@
 ';
 
 /* append your custom style below */
+
+.shimmer:has(img[src*='jaf-translation-sample']),
+.shimmer:has(img[src*='jaf-appendix-sample']),
+.shimmer:has(img[src*='jaf-official-sample-japan-small']),
+.shimmer:has(img[src*='jaf-official-sample-taiwan-small']) {
+  background: transparent;
+
+  &::before {
+    display: none;
+    animation: none;
+  }
+}
