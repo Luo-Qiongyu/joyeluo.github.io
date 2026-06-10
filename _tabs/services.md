@@ -12,6 +12,8 @@ order: 4
 
 提供 JAF 驾照翻译件代办服务。可协助办理日本租车、日本驾照在台湾租车、外国驾照在日本进行外免切替、中国驾照换日本驾照等场景中可能需要的 JAF 翻译件。
 
+需要办理可直接滑到页面底部扫码咨询，确认驾照类型和打印便利店后再下单。
+
 翻译件出来之后会给您发送打印码，并根据您选择的便利店提供对应打印步骤。打印码默认用于日本 711 便利店打印。如果需要在 Lawson、FamilyMart、Ministop、Poplar Group 打印，可以联系店主发行新的打印码。
 
 <small>※ 只有在日本便利店使用打印码打印，才会打印出带有 JAF 专用防伪水印的翻译件。</small>
@@ -24,6 +26,8 @@ order: 4
   <img src="/assets/img/contact/jaf-translation-sample.jpg" alt="JAF 翻译件样张" width="340" loading="eager">
   <img src="/assets/img/contact/jaf-appendix-sample.jpg" alt="JAF 翻译件附页样张" width="340" loading="eager">
 </div>
+
+<small>※ 样张图片来自 JAF 英文官网，仅用于展示翻译件格式。</small>
 
 ## 适用范围
 <strong>1.</strong> 持短期日本签证，计划在日本自驾或租车的客人，如果持有以下国家或地区的驾照，可申请 JAF 日文翻译件后在日本驾驶：
@@ -73,13 +77,15 @@ order: 4
 
 ## 准备材料
 
-- 驾照正反面清晰照片。(手机拍的驾照4个角都露出来的照片就行)
+- 驾照正反面清晰照片，手机拍摄时请露出驾照四个角。
 - 希望使用的打印便利店：711、Lawson、FamilyMart、Ministop 或 Poplar Group。
 
 ## 服务价格
 
-- 外国驾照 → 日本 JAF 翻译件：360 人民币
-- 日本驾照 → 台湾 JAF 翻译件：420 人民币
+| 服务类型 | 价格 |
+| --- | --- |
+| 外国驾照 → 日本 JAF 翻译件 | 360 人民币 |
+| 日本驾照 → 台湾 JAF 翻译件 | 420 人民币 |
 
 以上价格均包含 JAF 申请在内的所有费用。
 
@@ -88,6 +94,10 @@ order: 4
 关于外国驾照在日本驾驶、外国驾照换日本驾照等制度说明，可参考日本警察厅官网：
 
 [外国の運転免許をお持ちの方](https://www.npa.go.jp/policies/application/license_renewal/have_DL_issed_another_country.html)
+
+关于 JAF 翻译件样张和适用场景，可参考 JAF 英文官网：
+
+[About DLTAS](https://english.jaf.or.jp/driving-in-japan/drive-in-japan/about-dltas)
 
 ## 联系方式
 
