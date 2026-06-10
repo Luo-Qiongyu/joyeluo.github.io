@@ -22,7 +22,7 @@ order: 4
 
 ## 翻译件样张
 
-<div style="display: flex; gap: 1rem; align-items: flex-start; flex-wrap: wrap;">
+<div class="jaf-sample-grid" style="display: flex; gap: 1rem; align-items: flex-start; flex-wrap: wrap;">
   <img src="/assets/img/contact/jaf-translation-sample.jpg" alt="JAF 翻译件样张" width="340" loading="eager">
   <img src="/assets/img/contact/jaf-appendix-sample.jpg" alt="JAF 翻译件附页样张" width="340" loading="eager">
 </div>
@@ -40,7 +40,7 @@ order: 4
 - 摩纳哥
 - 台湾
 </div>
-<div style="flex: 0 1 300px; margin-top: -0.35rem;">
+<div class="jaf-scope-figure" style="flex: 0 1 300px; margin-top: -0.35rem;">
 
 <img src="/assets/img/contact/jaf-official-sample-japan-small.png" alt="外国驾照和 JAF 日文翻译件可在日本驾驶的官方示意图" width="300" loading="eager">
 
@@ -53,7 +53,7 @@ order: 4
 
 <strong>2.</strong> 日本驾照办理台湾 JAF 翻译件后，可以在台湾租车和自驾。
 
-<div style="text-align: left;">
+<div class="jaf-scope-figure" style="text-align: left;">
 
 <img src="/assets/img/contact/jaf-official-sample-taiwan-small.png" alt="日本驾照和 JAF 中文翻译件可在台湾驾驶的官方示意图" width="300" loading="eager">
 

@@ -20,3 +20,31 @@
     animation: none;
   }
 }
+
+@media (max-width: 576px) {
+  .jaf-sample-grid {
+    gap: 0.5rem !important;
+  }
+
+  .jaf-sample-grid .img-link {
+    width: calc(50% - 0.25rem);
+    max-width: 170px;
+  }
+
+  .jaf-sample-grid .img-link img {
+    width: 100%;
+  }
+
+  .jaf-scope-figure img {
+    width: 260px;
+    max-width: 100%;
+  }
+
+  article img[src*='wechat-qr'] {
+    width: 220px;
+  }
+
+  article img[src*='taobao-qr'] {
+    width: 260px;
+  }
+}
