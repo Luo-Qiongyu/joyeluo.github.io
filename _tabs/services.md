@@ -122,3 +122,7 @@ order: 4
 </div>
 
 请保存上方图片后，用淘宝 App 扫码打开店铺。
+
+<p class="text-muted small">
+  * 本服务为JAF翻译件申请协助服务，非JAF官方网站。
+</p>
