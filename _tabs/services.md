@@ -1,6 +1,8 @@
 ---
 # the default layout is 'page'
-title: Services
+title: "JAF翻译件代办｜日本租车・台湾租车・外免切替"
+description: "提供JAF翻译件代办服务"
+nav_label: SERVICES
 icon: fas fa-car
 order: 4
 ---
